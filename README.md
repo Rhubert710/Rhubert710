@@ -12,23 +12,19 @@
 <img align="left" style= "width: 37px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
 <img  style= "width: 37px" src="https://beautiful-soup-4.readthedocs.io/en/latest/_images/6.1.jpg" />
 
-<br>
 
 ## Latest Projects
 
-<div 
-     style="
-            width: 370px;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            "
- >
   <img style= "width: 370px" src="Drink_preview.png" />
   <div>www.Drink-Companion.com</div>
   
-  <p style= "overflow-wrap: break-word"> A cocktail recipe site with seach capabilities using rapid api, django for user/session managment and ORM, styled using vanilla javascript and plain CSS</p>
-</div>
+  
+  
+ 
+ A mobile responsive cocktail recipe site with seach capabilities  <br> 
+ using rapid api, django for user/session managment and ORM,  <br> 
+ styled using vanilla javascript and plain CSS
+
 
 <!--
 **Rhubert710/Rhubert710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -15,8 +15,8 @@
 
 ## Latest Projects
 
-  <img style= "width: 370px" src="Drink_preview.png" />
-  http://www.drink-companion.com
+  <a href="http://www.drink-companion.com"> <img style= "width: 370px" src="Drink_preview.png" /> </a>
+  <br>http://www.drink-companion.com
   
   
   

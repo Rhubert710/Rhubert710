@@ -13,7 +13,7 @@
 <img  style= "width: 37px" src="https://beautiful-soup-4.readthedocs.io/en/latest/_images/6.1.jpg" />
 
 
-## Latest Projects
+## Latest Project
 
   <a href="http://www.drink-companion.com"> <img style= "width: 370px" src="Drink_preview.png" /> </a>
   <br>http://www.drink-companion.com

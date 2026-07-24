@@ -11,7 +11,7 @@
 <img align="left" style= "width: 37px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
 <img align="left" style= "width: 37px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
 
-<img  style= "width: 37px" src="https://beautiful-soup-4.readthedocs.io/en/latest/_images/6.1.jpg" />
+<img align="left" style= "width: 37px" src="https://beautiful-soup-4.readthedocs.io/en/latest/_images/6.1.jpg" />
 <img  style= "width: 37px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" />
 
 

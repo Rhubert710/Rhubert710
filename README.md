@@ -22,7 +22,7 @@
   
   
   
-  <a href="http://www.Whats-going-on-this-weekend.com"> Whats-going-on-this-weekend.com</a>
+  <a href="http://www.whats-going-on-this-weekend.com"> Whats-going-on-this-weekend.com</a>
   
 
 

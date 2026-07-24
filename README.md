@@ -10,20 +10,21 @@
 <img align="left" style= "width: 37px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" style= "width: 37px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
 <img align="left" style= "width: 37px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+
 <img  style= "width: 37px" src="https://beautiful-soup-4.readthedocs.io/en/latest/_images/6.1.jpg" />
+<img  style= "width: 37px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" />
 
 
 ## Latest Project
 
-  <a href="http://www.drink-companion.com"> <img style= "width: 370px" src="Drink_preview.png" /> </a>
-  <br>http://www.drink-companion.com
   
   
   
- 
- A mobile responsive cocktail recipe site with seach capabilities  <br> 
- using rapid api, django for user/session managment and ORM,  <br> 
- styled using vanilla javascript and plain CSS
+  
+  
+  <a href="http://www.Whats-going-on-this-weekend.com"> Whats-going-on-this-weekend.com</a>
+  
+
 
 
 <!--
